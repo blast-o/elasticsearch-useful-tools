@@ -5,6 +5,7 @@ Curated list of elasticsearch tools/references/general use
 
 ### Elasticsearch
 
+#### [Awesome Elasticsearch ULTIMATE REFERENCE](https://github.com/dzharii/awesome-elasticsearch)
 
 
 ### Performance/GUI
@@ -95,7 +96,7 @@ Curated list of elasticsearch tools/references/general use
 
 
 
-[Awesome Elasticsearch ULTIMATE REFERENCE](https://github.com/dzharii/awesome-elasticsearch)
+
 
 ### Reindex/Importers
 
